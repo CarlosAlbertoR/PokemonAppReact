@@ -10,6 +10,12 @@ export const getPokemons = (page = 0) => {
       `pokemon?limit=20&offset=${page * 20}`
     );
 
-    dispatch(setPokemons({ pokemons: data.results, page: page + 1 }));
+    const currentPokemons = getState().pokemons.pokemons;
+    dispatch(
+      setPokemons({
+        pokemons: [...currentPokemons, ...data.results],
+        page: page + 1,
+      })
+    );
   };
 };
