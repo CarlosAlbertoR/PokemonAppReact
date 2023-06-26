@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PokemonAppReact/static/css/main.4c89fb82.css",
-    "main.js": "/PokemonAppReact/static/js/main.4dd28e66.js",
+    "main.css": "/PokemonAppReact/static/css/main.fb6b4542.css",
+    "main.js": "/PokemonAppReact/static/js/main.d2024aae.js",
     "index.html": "/PokemonAppReact/index.html",
-    "main.4c89fb82.css.map": "/PokemonAppReact/static/css/main.4c89fb82.css.map",
-    "main.4dd28e66.js.map": "/PokemonAppReact/static/js/main.4dd28e66.js.map"
+    "main.fb6b4542.css.map": "/PokemonAppReact/static/css/main.fb6b4542.css.map",
+    "main.d2024aae.js.map": "/PokemonAppReact/static/js/main.d2024aae.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c89fb82.css",
-    "static/js/main.4dd28e66.js"
+    "static/css/main.fb6b4542.css",
+    "static/js/main.d2024aae.js"
   ]
 }
